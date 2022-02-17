@@ -1,0 +1,75 @@
+html {
+  background-color: chartreuse;
+}
+
+h1{
+	color: blue;
+}
+.connection
+{
+	font-family: fantasy;
+	color: black;
+	}
+	.inscription
+	{
+		font-family: fantasy;
+		color: black;
+	}
+	.confiance
+{
+	font-family: fantasy;
+	color: red;
+	}
+	#Conteneur{
+		display: flex;
+		text-align: center;
+		justify-content: left;
+		border-width: 5px;
+		border-style: ridge;
+		border-color: black;
+		background-color: cornflowerblue;
+	}
+		.Sconteneur{
+		border-width: 5px;
+		}
+	.Sconteneur:nth-child (1){
+	font-size: 20px;
+	border-style: 50%;
+	}
+	.bouton
+	{ 
+		font-size: 20px;
+		color: blue;
+		border-radius: width:"100px" height="100px";
+		}
+	.txt: focus
+	{ color: red;	
+		.Sconteneur:nth-child (2){
+}
+	color: blue;
+	}
+body{
+	background: yellaow;
+	}
+
+.bouton{
+	color:black;
+	}
+	.inscription{
+	text-align: center;
+	}
+.conteneur {
+  width: 620px;
+  height: 110px;
+  margin: 0;
+  padding: 10px;
+  border: 6px solid mediumturquoise;
+}
+.tval{
+font-family: fantasy;
+	}
+.bouton
+	{
+		font-family: monospace;
+		color: black;
+	}
